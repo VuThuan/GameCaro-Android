@@ -527,7 +527,6 @@ public class MainActivity extends AppCompatActivity {
     private void CountDownTime()  {
         if(isClickNewGame)
         {
-            thoigian=thoigian;
             isClickNewGame=false;
         }
 
